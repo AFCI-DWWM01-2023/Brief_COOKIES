@@ -8,5 +8,5 @@ une langue d'affichage. Lorsque le formulaire est soumis, la langue choisie par 
 est redirigé vers la meme page d'accueil, qui doit maintenant etre affichée dans la langue choisie.  
 &nbsp;&nbsp; 
 
-Par défaut le site est en français
+Par défaut le site est en français si aucune langue n'a été sélectionnée
 ![session-1](profile/img/1.jpg)&nbsp;&nbsp;  
