@@ -9,4 +9,7 @@ est redirigé vers la meme page d'accueil, qui doit maintenant etre affichée da
 &nbsp;&nbsp; 
 
 Par défaut le site est en français si aucune langue n'a été sélectionnée
-![session-1](profile/img/1.jpg)&nbsp;&nbsp;  
+![cookie-1](profile/img/1.jpg)&nbsp;&nbsp;  
+
+&nbsp;&nbsp; 
+![cookie-1](profile/img/2.jpg)&nbsp;&nbsp; 
