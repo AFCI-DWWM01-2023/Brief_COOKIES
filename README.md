@@ -1,4 +1,8 @@
 # COOKIES  
-Vous devez crer unsite permettant à l'utilisateur de choisir une langue d'affichage pour le site.  
+Vous devez créer un site permettant à l'utilisateur de choisir une langue d'affichage pour le site.  
 Vous devez stocker la langue choisie par l'utilisateur dans un cookie, afin de lui permettre de   
-retrouver cette langue ultérieurement
+retrouver cette langue ultérieurement  
+## consignes :
+Écrivez un script PHP qui affiche une page d'accueil avec un formulaire permettant à l'utilisateur de choisir  
+une langue d'affichage. Lorsque le formulaire est soumis, la langue choisie par l'utilisateur est stockée dans un cookie et l'utilisateur
+est redirigé vers la meme page d'accueil, qui doit maintenant etre affichée dans la langue choisie.
