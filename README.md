@@ -11,5 +11,10 @@ est redirigé vers la meme page d'accueil, qui doit maintenant etre affichée da
 Par défaut le site est en français si aucune langue n'a été sélectionnée
 ![cookie-1](profile/img/1.jpg)&nbsp;&nbsp;  
 
-&nbsp;&nbsp; 
-![cookie-1](profile/img/2.jpg)&nbsp;&nbsp; 
+&nbsp;&nbsp;
+En anglais
+![cookie-2](profile/img/2.jpg)&nbsp;&nbsp; 
+
+&nbsp;&nbsp;
+En espagnol
+![cookie-3](profile/img/3.jpg)&nbsp;&nbsp; 
